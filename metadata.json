@@ -1,0 +1,5 @@
+{
+  "name": "Otime Discovery",
+  "description": "Smart timezone converter powered by Gemini. Instantly convert time between any two countries or cities with context-aware location resolution.",
+  "requestFramePermissions": []
+}
